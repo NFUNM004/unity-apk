@@ -52,3 +52,6 @@
 6. 在手机模拟器打开apk
 ![16.PNG](https://upload-images.jianshu.io/upload_images/9779994-dc00b2b0249540ee.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+## 录屏
+- 链接: https://pan.baidu.com/s/1bh5Au1cx_2BLFvJtDXAzog 提取码: a3ga
+- 因为网速问题，中间有一段较长一段时间打包进度条呈静止状态
